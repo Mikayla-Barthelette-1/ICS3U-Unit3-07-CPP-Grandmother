@@ -10,10 +10,8 @@
 
 int main() {
     // this function determines if you can date her grandchild
-
     int userAge;
     std::string userInput;
-
 
     // input
     std::cout << "Please enter your age: ";
